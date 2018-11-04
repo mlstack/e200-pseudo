@@ -1,6 +1,6 @@
 # Logistic Regression
 
-## OLS
+## Process
 ```
 X = matrix_X
 Y = vector_Y
